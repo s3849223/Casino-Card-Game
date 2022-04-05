@@ -7,4 +7,4 @@ program. Some of these included the error checking standards, some of which i wa
 achieve as well being able to clear the cards after each player has been dealt their hard. I 
 attempted to keep my code structure quite simple and easy to understand, as a result 
 i refreained from adding comments. In order to execute the assignment successfully, 
-CardGame and CardGameGUI must be linked via the buidpath. 
+CardGame and CardGameGUI must be linked via the buildpath. 
